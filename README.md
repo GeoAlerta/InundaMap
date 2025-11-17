@@ -1,6 +1,6 @@
 # InundaMap
 InundaMap es una plataforma digital que centraliza y actualiza información sobre zonas inundables en el Perú. Permite a ciudadanos, municipalidades e instituciones de emergencia registrar, visualizar y monitorear en tiempo real áreas afectadas por lluvias intensas, desbordes de ríos o posibles tsunamis.
-El proyecto surge ante la falta de información oportuna para responder a emergencias, especialmente en regiones como Piura, Tumbes, Lambayeque y Lima, donde miles de familias se ven afectadas cada año. InundaMap ofrece un espacio colaborativo con reportes ciudadanos, evidencia multimedia y un tablero de monitoreo que facilita la prevención, organización de recursos y generación de reportes oficiales.
+El proyecto surge ante la falta de información oportuna para responder a emergencias, donde miles de familias se ven afectadas cada año. InundaMap ofrece un espacio colaborativo con reportes ciudadanos, evidencia multimedia y un tablero de monitoreo que facilita la prevención, organización de recursos y generación de reportes oficiales.
 La plataforma impulsa una cultura de prevención y mejora la coordinación entre comunidad y autoridades, contribuyendo a reducir riesgos frente a inundaciones en el país.
 
 ##  Segmentos Objetivos
